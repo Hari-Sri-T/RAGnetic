@@ -1,0 +1,10 @@
+jupyter 
+notebook 
+ipywidgets
+PyMuPDF 
+python-docx
+sentence-transformers 
+transformers
+rank_bm25
+chromadb
+ollama
